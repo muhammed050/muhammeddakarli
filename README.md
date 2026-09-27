@@ -16,13 +16,13 @@ Import `muhammed050/muhammeddakarli` into Vercel. Choose **Other**, root `.`, le
 
 ## Content maintenance
 
-- Contact currently links to the public GitHub profile. Add a business email or WhatsApp only after the owner selects a public contact channel.
+- Owner-approved public contacts: WhatsApp `+905374249922` and email `dakarle70@gmail.com`.
 - Six project screenshots captured from the public websites on 2026-09-27; Vercel ownership and domains were verified through the connected account.
 - Portfolio examples: ParetoScope, Jawaher Crochet, Dorucenie, Eldevo, Linkbio (لينكا), Rddly (ردلي).
 - Rddly is explicitly marked as in preparation. Project links and screenshots demonstrate the public interface, not an audit of operational readiness.
 - Android development is offered as a service; no unverified Android app or store listing is claimed.
 - Screenshot assets are local. Google Fonts are optional; system fallback fonts are configured.
-- The contact button opens the public GitHub profile; there is no backend or pretend form submission.
+- The WhatsApp button opens a conversation without sending a message; the email link opens the visitor’s email client. There is no backend or pretend form submission.
 
 ## Accessibility
 
